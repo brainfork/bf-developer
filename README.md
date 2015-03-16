@@ -1,2 +1,2 @@
-# bf-custom-post-types
-Easy register WordPress custom post types
+# bf-developer
+A suite of tools used for development of WordPress code. Compiled by [@brainfork](https://github.com/brainfork)
